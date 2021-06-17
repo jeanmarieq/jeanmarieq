@@ -6,8 +6,9 @@
   </article>
 </section>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jeanmarieq&show_icons=true&theme=radical"/> <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmarieq&layout=compact&theme=radical"/>
+<img height = "180em" src="https://github-readme-stats.vercel.app/api?username=jeanmarieq&show_icons=true&theme=radical"/> <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmarieq&layout=compact&theme=radical"/>
 
+ <a target="_blank" href="https://www.instagram.com/jeanmarie.quijada/"><img src="https://www.flaticon.com/br/icone-gratis/instagram_174855?term=instagram&page=1&position=1&page=1&position=1&related_id=174855&origin=search" alt="instagram"></a>
 
 
 <!--
