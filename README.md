@@ -6,8 +6,8 @@
   </article>
   <section class="redes-sociais">
     <a target="_blank" href="https://www.facebook.com/jeanmiq"><img height = "50" width = "40" src="https://user-images.githubusercontent.com/78059059/122448386-14185c80-cf7b-11eb-9654-e04c57aef416.png" alt="facebook"></a>
-    <a target="_blank" href="https://www.instagram.com/jeanmarie.quijada/"><img height = "50" width = "40" src="https://user-images.githubusercontent.com/78059059/122448811-88530000-cf7b-11eb-8c49-df6265f4819a.png" alt="instagram"></a>
-    <a target="_blank" href="https://www.linkedin.com/in/jeanmarie-quijada/"><img height = "50" width = "40" src="https://user-images.githubusercontent.com/78059059/122448969-b7697180-cf7b-11eb-9387-41f9e30fc748.png" alt="linkedin"></a>
+    <a target="_blank" href="https://www.instagram.com/jeanmarie.quijada/"><img height = "50" width = "40" src="https://www.flaticon.es/icono-gratis/instagram_174855?term=instagram&page=1&position=9&page=1&position=9&related_id=174855&origin=search" alt="instagram"></a>
+    <a target="_blank" href="https://www.linkedin.com/in/jeanmarie-quijada/"><img height = "50" width = "40" src="https://www.flaticon.es/icono-gratis/linkedin_1409945?term=linkedin&page=1&position=9&page=1&position=9&related_id=1409945&origin=search" alt="linkedin"></a>
   </section>
 </section>
 
