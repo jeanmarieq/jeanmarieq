@@ -5,7 +5,7 @@
     <strong>Desenvolvedora web</strong></br>
   </article>
   <section class="redes-sociais">
-      <a target="_blank" href="https://www.facebook.com/jeanmiq"><img src="img/Redes -Sociais/facebook.png" alt="facebook"></a>
+      <a target="_blank" href="https://www.facebook.com/jeanmiq"><img src="![image](https://user-images.githubusercontent.com/78059059/122448386-14185c80-cf7b-11eb-9654-e04c57aef416.png)" alt="facebook"></a>
       <a target="_blank" href="https://www.instagram.com/jeanmarie.quijada/"><img src="img/Redes -Sociais/instagram.png" alt="instagram"></a>
       <a target="_blank" href="https://www.linkedin.com/in/jeanmarie-quijada/"><img src="img/Redes -Sociais/linkedin.png" alt="linkedin"></a>
   </section>
