@@ -5,15 +5,17 @@
     <strong>Desenvolvedora web</strong></br>
   </article>
   <section class="redes-sociais">
-      <a target="_blank" href="https://www.facebook.com/jeanmiq"><img src="![image](https://user-images.githubusercontent.com/78059059/122448386-14185c80-cf7b-11eb-9654-e04c57aef416.png)" alt="facebook"></a>
-      <a target="_blank" href="https://www.instagram.com/jeanmarie.quijada/"><img src="img/Redes -Sociais/instagram.png" alt="instagram"></a>
-      <a target="_blank" href="https://www.linkedin.com/in/jeanmarie-quijada/"><img src="img/Redes -Sociais/linkedin.png" alt="linkedin"></a>
+    <a target="_blank" href="https://www.facebook.com/jeanmiq"><img src="https://user-images.githubusercontent.com/78059059/122448386-14185c80-cf7b-11eb-9654-e04c57aef416.png" alt="facebook"></a>
+    <a target="_blank" href="https://www.instagram.com/jeanmarie.quijada/"><img src="https://user-images.githubusercontent.com/78059059/122448811-88530000-cf7b-11eb-8c49-df6265f4819a.png" alt="instagram"></a>
+    <a target="_blank" href="https://www.linkedin.com/in/jeanmarie-quijada/"><img src="https://user-images.githubusercontent.com/78059059/122448969-b7697180-cf7b-11eb-9387-41f9e30fc748.png" alt="linkedin"></a>
   </section>
 </section>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanmarieq&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmarieq=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmarieq&theme=radical)
+
+
 
 <!--
 **jeanmarieq/jeanmarieq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
