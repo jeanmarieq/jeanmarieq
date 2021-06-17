@@ -5,15 +5,15 @@
     <strong>Desenvolvedora web</strong></br>
   </article>
   <section class="redes-sociais">
-    <a target="_blank" href="https://www.facebook.com/jeanmiq"><img src="https://user-images.githubusercontent.com/78059059/122448386-14185c80-cf7b-11eb-9654-e04c57aef416.png" alt="facebook" style =  width: 20></a>
-    <a target="_blank" href="https://www.instagram.com/jeanmarie.quijada/"><img src="https://user-images.githubusercontent.com/78059059/122448811-88530000-cf7b-11eb-8c49-df6265f4819a.png" alt="instagram" style =  width: 20></a>
-    <a target="_blank" href="https://www.linkedin.com/in/jeanmarie-quijada/"><img src="https://user-images.githubusercontent.com/78059059/122448969-b7697180-cf7b-11eb-9387-41f9e30fc748.png" alt="linkedin" style =  width: 20></a>
+    <a target="_blank" href="https://www.facebook.com/jeanmiq"><img height = "30" width = "40" src="https://user-images.githubusercontent.com/78059059/122448386-14185c80-cf7b-11eb-9654-e04c57aef416.png" alt="facebook"></a>
+    <a target="_blank" href="https://www.instagram.com/jeanmarie.quijada/"><img height = "30" width = "40" src="https://user-images.githubusercontent.com/78059059/122448811-88530000-cf7b-11eb-8c49-df6265f4819a.png" alt="instagram"></a>
+    <a target="_blank" href="https://www.linkedin.com/in/jeanmarie-quijada/"><img height = "30" width = "40" src="https://user-images.githubusercontent.com/78059059/122448969-b7697180-cf7b-11eb-9387-41f9e30fc748.png" alt="linkedin"></a>
   </section>
 </section>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanmarieq&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmarieq&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmarieq&layout=compact&theme=radical)
 
 
 
