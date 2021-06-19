@@ -4,9 +4,6 @@
     <p>Olá, eu sou a <em>Jeanmarie Quijada</em> </br>
     <strong>Desenvolvedora web</strong></br>
   </article>
-  <img src="https://photos.app.goo.gl/36T3gPzNeYHRgUxz5" alt="banner"/> 
-  
- (https://photos.app.goo.gl/36T3gPzNeYHRgUxz5/)
 </section>
 
 <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=jeanmarieq&show_icons=true&theme=cobalt"/> <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmarieq&layout=compact&theme=cobalt"/>
