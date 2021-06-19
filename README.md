@@ -1,9 +1,6 @@
 ### Hi there 👋
 <section class="About-me">
-  <article>
     <p>Olá, eu sou a <em>Jeanmarie Quijada</em> </br>
-    <strong>Desenvolvedora web</strong></br>
-  </article>
 </section>
 
 ![Jeanmarie Banner](https://user-images.githubusercontent.com/78059059/122628810-cb51c800-d08e-11eb-8e2d-749d63765384.png)
