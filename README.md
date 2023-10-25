@@ -1,5 +1,7 @@
 ### Hola👋 Soy <em>Jeanmarie Quijada</em> 
-![Jeanmarie Banner](https://user-images.githubusercontent.com/78059059/122630404-b464a300-d099-11eb-8a06-b4dab7991b0a.png)
+
+# 🌐 Redes Sociales
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/kibum.png](https://www.instagram.com/code.jeanmarie/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/laura-grassi](https://www.linkedin.com/in/jeanmariequijada/?locale=es_ES))
 
 # 🚀 Experiencia
 Ingeniera de Sistemas y desarrolladora de software Full Stack con experiencia en desarrollo web front-end en construcción de aplicaciones web con HTML, CSS, JavaScript, Angular, base de datos con MySQL y backend con Node.Js. También cuento con 5 años de experiencia trabajando en soporte técnico T.I. 
