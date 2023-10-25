@@ -1,7 +1,14 @@
 ### Hola👋 Soy <em>Jeanmarie Quijada</em> 
 
 # 🌐 Redes Sociales
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/kibum.png](https://www.instagram.com/code.jeanmarie/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/laura-grassi](https://www.linkedin.com/in/jeanmariequijada/?locale=es_ES))
+<div> 
+  
+ <a href="https://www.instagram.com/code.jeanmarie/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.twitch.tv/codejeanmarie" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/jeanmariequijada/?locale=es_ES" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 # 🚀 Experiencia
 Ingeniera de Sistemas y desarrolladora de software Full Stack con experiencia en desarrollo web front-end en construcción de aplicaciones web con HTML, CSS, JavaScript, Angular, base de datos con MySQL y backend con Node.Js. También cuento con 5 años de experiencia trabajando en soporte técnico T.I. 
