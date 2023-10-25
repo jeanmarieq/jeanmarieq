@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola 👋
 <section class="About-me">
     <p>Olá, eu sou a <em>Jeanmarie Quijada</em> </br>
 </section>
