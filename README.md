@@ -1,15 +1,15 @@
 ### Hola👋 Soy <em>Jeanmarie Quijada</em> 
-<section class="About-me">
+![Jeanmarie Banner](https://user-images.githubusercontent.com/78059059/122630404-b464a300-d099-11eb-8a06-b4dab7991b0a.png)
 # 🚀 Experiencia
-    <p>Ingeniera de Sistemas y desarrolladora de software Full Stack con experiencia en desarrollo web front-end en construcción de aplicaciones web con HTML, CSS, JavaScript, Angular, base de datos con MySQL y backend con Node.Js. También cuento con 5 años de experiencia trabajando en soporte técnico T.I. 
+Ingeniera de Sistemas y desarrolladora de software Full Stack con experiencia en desarrollo web front-end en construcción de aplicaciones web con HTML, CSS, JavaScript, Angular, base de datos con MySQL y backend con Node.Js. También cuento con 5 años de experiencia trabajando en soporte técnico T.I. 
 
 Actualmente me desempeño como instructora en Alura Latam, formando parte del equipo de instructores del programa Oracle Next Education. 
 
 Estoy siempre dispuesta a aprender y afrontar nuevos retos, soy una entusiasta de la tecnología. Una mujer perseverante que no se deja vencer por los obstáculos que encuentra en el camino.
 En mi tiempo libre, me gusta ver series, películas de Marvel, DC, animes, soy fan de Star Wars. Escucho música Rock, Power Metal, Metal Sinfónico, entre otros. </br>
-</section>
 
-![Jeanmarie Banner](https://user-images.githubusercontent.com/78059059/122630404-b464a300-d099-11eb-8a06-b4dab7991b0a.png)
+
+
 
 <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=jeanmarieq&show_icons=true&theme=cobalt"/> 
 <!--<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmarieq&layout=compact&theme=cobalt"/>-->
